@@ -14,7 +14,7 @@ organization.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnaqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnaqeeb" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **DevOps**
 
 - 👨‍💻 All of my projects are available at [**github.com/muhammadnaqeeb**](https://github.com/muhammadnaqeeb)
 
@@ -24,17 +24,33 @@ organization.
 
 - 📫 How to reach me **mnaqeeb512@gmail.com**
 
-- 📄 Know about my experiences [**portfolio**](https://muhammadnaqeeb.github.io/naqeeb/)
+- 📄 Know about my experiences [**portfolio**](https://mnaqeeb-dev.web.app/)
 
 - ⚡ Fun fact **I think I can teach well**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammadnaqeeb" height="30" width="40" /></a>
-<a href="https://medium.com/@mnaqeeb512" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mnaqeeb512" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/linkedin/linkedin.svg" alt="muhammadnaqeeb" height="45" width="48" /></a>
+<a href="mailto:info@mnaqeeb512@gmail.com" target="blank"><img align="center" src="icons/gmail/gmail.svg" alt="muhammadnaqeeb" height="45" width="45" /></a>
+
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<img src="icons/flutter/flutter.svg" width="45" height="45">
+<img src="icons/java/java.svg" width="45" height="45">
+<img src="icons/firebase/firebase.svg" width="45" height="45">
+<img src="icons/nodejs/nodejs.svg" width="45" height="45">
+<img src="icons/mongodb/mongodb.svg" width="45" height="45">
+<img src="icons/python/python.svg" width="45" height="45">
+<img src="icons/js/js.svg" width="45" height="45">
+<img src="icons/git/git.svg" width="45" height="45">
+<img src="icons/docker/docker.webp" width="55" height="45">
+<img src="icons/figma/figma.svg" width="45" height="45">
+
+
+  </p>
 
 
