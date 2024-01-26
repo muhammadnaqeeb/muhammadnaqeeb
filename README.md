@@ -1,16 +1,20 @@
+<!---
 <h1 >Hi 👋, I'm Muhammad Naqeeb</h1>
+-->
 
+# Hi there 👋
+<a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/detail/detail.svg" alt="linkedIn"/></a>
+
+<!---
 I am a mobile programming enthusiast and a senior  **software engineer** with a **B.Sc**. in Computer Science. With a deep passion for **mobile app development**.
 Passionate and results-driven Software Developer with a strong
 foundation in Computer Science and a proven track record in designing
 and developing high-quality mobile applications using **Flutter**. 
-
-Adept at collaborating with cross-functional teams to deliver innovative
-solutions that enhance user experiences. Seeking an opportunity to
-leverage my skills and knowledge in a dynamic and growth-oriented
-organization.
+-->
 
 ###
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadnaqeeb&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadnaqeeb" /> </p>
 
@@ -30,8 +34,9 @@ organization.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/linkedin/linkedin.svg" alt="muhammadnaqeeb" height="45" width="48" /></a>
-<a href="mailto:info@mnaqeeb512@gmail.com" target="blank"><img align="center" src="icons/gmail/gmail.svg" alt="muhammadnaqeeb" height="45" width="45" /></a>
+<a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/linkedin/linkedin.svg" alt="linkedIn" height="45" width="48" /></a>
+<a href="mailto:info@mnaqeeb512@gmail.com" target="blank"><img align="center" src="icons/gmail/gmail.svg" alt="mail" height="45" width="45" /></a>
+<a href="https://medium.com/@mnaqeeb512" target="blank"><img align="center" src="icons/medium/medium-square.svg" alt="medium" height="70" width="70" /></a>
 
 
 
