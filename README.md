@@ -2,7 +2,6 @@
 <h1 >Hi 👋, I'm Muhammad Naqeeb</h1>
 -->
 
-# Hi there 👋
 <a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/detail/detail.svg" alt="linkedIn"/></a>
 
 <!---
