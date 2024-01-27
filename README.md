@@ -21,7 +21,7 @@ and developing high-quality mobile applications using **Flutter**.
 
 - 👨‍💻 All of my projects are available at [**github.com/muhammadnaqeeb**](https://github.com/muhammadnaqeeb)
 
-- 📝 I regularly write articles on [**medium.com/@mnaqeeb512**](https://medium.com/@mnaqeeb512)
+- 📝 I regularly write articles on [**medium.com/@muhammadnaqeeb**](https://medium.com/@muhammadnaqeeb)
 
 - 💬 Ask me about **Flutter, dart, Android ...**
 
@@ -35,8 +35,7 @@ and developing high-quality mobile applications using **Flutter**.
 <p align="left">
 <a href="https://linkedin.com/in/muhammadnaqeeb" target="blank"><img align="center" src="icons/linkedin/linkedin.svg" alt="linkedIn" height="45" width="48" /></a>
 <a href="mailto:info@mnaqeeb512@gmail.com" target="blank"><img align="center" src="icons/gmail/gmail.svg" alt="mail" height="45" width="45" /></a>
-<a href="https://medium.com/@mnaqeeb512" target="blank"><img align="center" src="icons/medium/medium-square.svg" alt="medium" height="70" width="70" /></a>
-
+<a href="https://medium.com/@muhammadnaqeeb" target="blank"><img align="center" src="icons/medium/medium-square.svg" alt="medium" height="70" width="70" /></a>
 
 
 </p>
